@@ -1,0 +1,1 @@
+customer_id,telecom_partner,gender,age,state,city,pincode,date_of_registration,num_dependents,estimated_salary,calls_made,sms_sent,data_used,churn,CHURN_FLAG
