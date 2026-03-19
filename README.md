@@ -116,24 +116,8 @@ customer-churn-prediction/
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
-```
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-3. Open Jupyter Notebook
-```bash
-jupyter notebook Customer_Churn_Prediction_PR0017.ipynb
-```
 
----
 
 ## 👤 Author
-**Your Name**
-- Intern @ DataMites
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+Nandha Kumar S K 
+- Intern @ Rubixe AI company 
